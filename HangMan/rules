@@ -1,0 +1,15 @@
+✅ GAME RULES:
+The game chooses a secret word (you can hardcode or pick randomly from a list/file).
+Player must guess letters one by one.
+If the guessed letter is in the word → reveal it in the correct positions.
+If the guess is wrong, player loses a “life” (usually 6–8 tries).
+
+Game ends when:
+Player guesses the whole word → YOU WIN! 🎉
+Player runs out of lives → GAME OVER 💀
+
+The game should show:
+
+The masked word (e.g., _ _ a _ _)
+Letters guessed so far
+Remaining attempts
